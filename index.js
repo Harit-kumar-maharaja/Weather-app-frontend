@@ -157,3 +157,4 @@ searchform.addEventListener("submit", (e) => {
         fetchsearchweatherinfo(cityname);
     }
 });
+
